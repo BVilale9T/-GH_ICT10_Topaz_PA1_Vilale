@@ -1,0 +1,12 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-top: 40px;
+    background-color: beige;
+}
+
+button {
+    padding: 5px;
+    font-size: 10px;
+    margin: 10px;
+}
